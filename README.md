@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saksham Rana</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/30af41d2-0030-4ea6-9108-3a919632f738" />
+<h3 align="center">TECH  ENTHUSIAST</h3>
+<img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/30af41d2-0030-4ea6-9108-3a919632f738" />
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamraana&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamraana" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sakshamraana&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamraana" /> </p>
 
 - 📫 How to reach me **ranasaksham83@gmail.com**
 
